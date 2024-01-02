@@ -65,12 +65,9 @@ jobs:
 
       - name: "Install dependencies"
         run: "composer install"
-        working-directory: all
 
       - name: "List dependencies"
         run: "composer show -l"
-        working-directory: all
 
       - name: "Show outdated"
         run: "composer show -o"
-        working-directory: all
