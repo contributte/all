@@ -7,9 +7,6 @@ $sources = [
 
 $skipped = [
 	// TODO
-	'contributte/image-storage',
-	'contributte/imagist',
-	'contributte/nella',
 	'nettrine/extensions-knplabs',
 	'nettrine/extensions-oroinc'
 ];
